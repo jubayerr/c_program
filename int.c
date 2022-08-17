@@ -18,11 +18,13 @@ int main()
     a = -10000000;
     printf("Value of a is %d\n", a);
 
-    a = 1002004000503;
-    printf("Value of a is %d\n", a);
+    // These cannot execute
 
-    a = -4325987632;
-    printf("Value of a is %d\n", a);
+    // a = 1002004000503;
+    // printf("Value of a is %d\n", a);
+
+    // a = -4325987632;
+    // printf("Value of a is %d\n", a);
 
     return 0;
 
