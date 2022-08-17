@@ -1,7 +1,11 @@
-# cpBook by Subeen
+# Book
 
-this repository created for practice code fo Computer Programming book by Subeen. 
+Computer Programming by Tamim Shariar Subeen. 
 
-# c programming
+# Topics
 
-C programming language used for programming in this book
+C programming language
+
+# Tools
+
+Linux, Ubuntu, Visual Studio Code
