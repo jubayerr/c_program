@@ -5,16 +5,12 @@
 
 int main()
 {
-    int a;
-    int b;
-    int sum;
-
-    a = 50;
-    b = 60;
+    int a = 50, b = 60, sum;
 
     sum = a + b;
 
     printf("Sum is %d\n", sum);
 
     return 0;
+
 }
