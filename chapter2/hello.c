@@ -2,7 +2,8 @@
 
 // Starting C programming
 
-int main() {
+int main()
+{
 	printf("Hello, Universe!\n");
 	return 0;
 }
